@@ -1,13 +1,12 @@
 # Getting Started
 
-The o!TR processor requires a working o!TR API instance to function correctly. These applications talk to each other to accomplish one goal: process tournament data.
+The o!TR processor is a tool which generates ratings 
 
 ## Prerequisites
 
 Install the following tools:
 
 - [Rust](https://www.rust-lang.org/)
-- [Setup o!TR API](o-TR-API.md)
 - [Setup Database](o-TR-Database.md)
 
 ## Environment variables
